@@ -7,3 +7,4 @@ stuff in branch2
 sadfsdf
 branch2 things
 commit1
+commit2
