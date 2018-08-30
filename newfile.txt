@@ -9,3 +9,6 @@ branch2 things
 commit1
 commit2
 commit3
+branch3 commit1
+branch3 commit2
+branch3 commit3
