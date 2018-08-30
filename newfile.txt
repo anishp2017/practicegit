@@ -1,11 +1,8 @@
 new text file
-<<<<<<< HEAD
 stuff changes in master
 sadfsdf
 adding to master
 master2
-=======
 stuff in branch2
 sadfsdf
 branch2 things
->>>>>>> branch2
